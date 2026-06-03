@@ -5,9 +5,6 @@
 E-commerce platforms overwhelm customers with thousands of products.
 A recommendation system personalises product discovery, driving higher purchases,
 longer sessions, and repeat visits. Amazon attributes ~35% of revenue to recommendations.
-
-## Check the Recommendation Here
-    👉
     
 ## Project Structure
 ```
