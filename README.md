@@ -8,6 +8,7 @@ longer sessions, and repeat visits. Amazon attributes ~35% of revenue to recomme
 
 ## Check the Recommendation Here
     👉
+    
 ## Project Structure
 ```
 recommendation_system/
